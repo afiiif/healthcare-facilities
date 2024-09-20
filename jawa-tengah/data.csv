@@ -1,0 +1,101 @@
+Lat,Lng,Nama,Kota/Kab,Tipe,Pemilik
+-6.88961,109.63083,RSUD Kraton,Pekalongan,Rumah Sakit,Pemerintah
+-6.86660,109.66909,Puskesmas Buaran,Pekalongan,Puskesmas,Pemerintah
+-6.89532,109.66818,RS Budi Rahayu,Pekalongan,Rumah Sakit,Swasta
+-6.87529,109.67561,Klinik Sehat Sentosa,Pekalongan,Klinik,Swasta
+-6.88842,109.67333,RS Hermina Pekalongan,Pekalongan,Rumah Sakit,Swasta
+-7.01042,109.97881,Puskesmas Batang,Batang,Puskesmas,Pemerintah
+-6.93477,109.91769,RSUD Kalisari,Batang,Rumah Sakit,Pemerintah
+-7.03615,109.90293,RS QIM,Batang,Rumah Sakit,Swasta
+-7.01929,109.89555,Klinik Pratama Batang,Batang,Klinik,Swasta
+-6.93920,110.04405,RS Islam Batang,Batang,Rumah Sakit,Swasta
+-6.89345,109.40310,Puskesmas Pemalang,Pemalang,Puskesmas,Pemerintah
+-6.87018,109.37271,RSUD M Ashari,Pemalang,Rumah Sakit,Pemerintah
+-6.89383,109.38606,RS Islam Al Ikhlas,Pemalang,Rumah Sakit,Swasta
+-6.90402,109.31231,Klinik Utama Pemalang,Pemalang,Klinik,Swasta
+-6.88620,109.38825,RS Hermina Pemalang,Pemalang,Rumah Sakit,Swasta
+-7.36314,109.62533,Puskesmas Banjarnegara,Banjarnegara,Puskesmas,Pemerintah
+-7.30251,109.67376,RSUD Hj Anna Lasmanah,Banjarnegara,Rumah Sakit,Pemerintah
+-7.39515,109.71772,RS Islam Banjarnegara,Banjarnegara,Rumah Sakit,Swasta
+-7.35565,109.72699,Klinik Bhakti Wira,Banjarnegara,Klinik,Swasta
+-7.37855,109.68531,RS Permata Medika,Banjarnegara,Rumah Sakit,Swasta
+-7.39271,109.36077,Puskesmas Purbalingga,Purbalingga,Puskesmas,Pemerintah
+-7.38527,109.44067,RSUD Goeteng Taroenadibrata,Purbalingga,Rumah Sakit,Pemerintah
+-7.31477,109.46265,RSU Harapan Ibu,Purbalingga,Rumah Sakit,Swasta
+-7.35871,109.46471,Klinik Sehat Bersama,Purbalingga,Klinik,Swasta
+-7.38255,109.50696,RSIA Ananda Purbalingga,Purbalingga,Rumah Sakit,Swasta
+-6.94057,109.63480,Puskesmas Kajen,Pekalongan,Puskesmas,Pemerintah
+-6.93423,109.61563,RS Kajen,Pekalongan,Rumah Sakit,Pemerintah
+-6.92480,109.66614,Klinik Medika Sejahtera,Pekalongan,Klinik,Swasta
+-6.91526,109.62536,RS Santa Maria,Pekalongan,Rumah Sakit,Swasta
+-6.92795,109.64030,RS Kartini,Pekalongan,Rumah Sakit,Swasta
+-6.98281,109.72558,Puskesmas Limpung,Batang,Puskesmas,Pemerintah
+-6.96883,109.74774,RS Limpung Medika,Batang,Rumah Sakit,Swasta
+-7.02116,109.73864,Klinik Pratama Sejahtera,Batang,Klinik,Swasta
+-7.00991,109.76989,RS Bhakti Keluarga,Batang,Rumah Sakit,Swasta
+-7.02797,109.76508,RS Mitra Sehat,Batang,Rumah Sakit,Swasta
+-6.94516,109.41181,Puskesmas Comal,Pemalang,Puskesmas,Pemerintah
+-7.02118,109.39344,RS Permata Pemalang,Pemalang,Rumah Sakit,Swasta
+-6.97567,109.37953,Klinik Medika Husada,Pemalang,Klinik,Swasta
+-6.91534,109.37798,RS Mardi Rahayu,Pemalang,Rumah Sakit,Swasta
+-6.95087,109.39026,RS Mitra Pemalang,Pemalang,Rumah Sakit,Swasta
+-7.41267,109.60750,Puskesmas Purwareja,Banjarnegara,Puskesmas,Pemerintah
+-7.42476,109.65953,RS Dharma Banjarnegara,Banjarnegara,Rumah Sakit,Swasta
+-7.45200,109.63463,Klinik Sejahtera Medika,Banjarnegara,Klinik,Swasta
+-7.45506,109.60166,RS Wijaya Kusuma,Banjarnegara,Rumah Sakit,Swasta
+-7.46222,109.65833,RS Bhakti Mulia,Banjarnegara,Rumah Sakit,Swasta
+-7.36418,109.30880,Puskesmas Bobotsari,Purbalingga,Puskesmas,Pemerintah
+-7.32194,109.36083,RS Ananda Bobotsari,Purbalingga,Rumah Sakit,Swasta
+-7.32082,109.33576,Klinik Medika Bobotsari,Purbalingga,Klinik,Swasta
+-7.36111,109.27480,RS Bersama Sehat,Purbalingga,Rumah Sakit,Swasta
+-7.38512,109.24887,RS Islam Bobotsari,Purbalingga,Rumah Sakit,Swasta
+-7.03172,109.61180,Puskesmas Sragi,Pekalongan,Puskesmas,Pemerintah
+-7.02354,109.59222,RSUD Sragi,Pekalongan,Rumah Sakit,Pemerintah
+-7.03666,109.56973,Klinik Pratama Sragi,Pekalongan,Klinik,Swasta
+-7.05813,109.59446,RS Permata Sragi,Pekalongan,Rumah Sakit,Swasta
+-6.98962,109.51769,RS Mitra Sragi,Pekalongan,Rumah Sakit,Swasta
+-7.03632,109.78637,Puskesmas Gringsing,Batang,Puskesmas,Pemerintah
+-7.03257,109.77951,RS Gringsing Medika,Batang,Rumah Sakit,Swasta
+-6.95111,109.74653,Klinik Sehat Gringsing,Batang,Klinik,Swasta
+-6.99116,109.79204,RS Permata Gringsing,Batang,Rumah Sakit,Swasta
+-6.93816,109.77573,RS Mitra Keluarga Gringsing,Batang,Rumah Sakit,Swasta
+-6.89872,109.49354,Puskesmas Ulujami,Pemalang,Puskesmas,Pemerintah
+-6.92914,109.44700,RS Mitra Ulujami,Pemalang,Rumah Sakit,Swasta
+-6.93400,109.43292,Klinik Pratama Ulujami,Pemalang,Klinik,Swasta
+-6.91568,109.48813,RS Sejahtera Ulujami,Pemalang,Rumah Sakit,Swasta
+-6.94380,109.46727,RS Permata Ulujami,Pemalang,Rumah Sakit,Swasta
+-7.35359,109.90246,Puskesmas Pagentan,Banjarnegara,Puskesmas,Pemerintah
+-7.40928,109.77779,RS Dharma Sehat,Banjarnegara,Rumah Sakit,Swasta
+-7.33214,109.90212,Klinik Pratama Pagentan,Banjarnegara,Klinik,Swasta
+-7.29705,109.87911,RS Permata Sejahtera,Banjarnegara,Rumah Sakit,Swasta
+-7.38663,109.96188,RS Islam Pagentan,Banjarnegara,Rumah Sakit,Swasta
+-7.28445,109.38948,Puskesmas Bukateja,Purbalingga,Puskesmas,Pemerintah
+-7.21056,109.42143,RS Permata Bukateja,Purbalingga,Rumah Sakit,Swasta
+-7.09879,109.43208,Klinik Pratama Bukateja,Purbalingga,Klinik,Swasta
+-7.13662,109.45028,RS Bhakti Mulia Bukateja,Purbalingga,Rumah Sakit,Swasta
+-7.16286,109.38503,RS Mitra Sehat Bukateja,Purbalingga,Rumah Sakit,Swasta
+-6.96706,109.64269,Puskesmas Bojong,Pekalongan,Puskesmas,Pemerintah
+-6.99373,109.66956,RSUD Bojong,Pekalongan,Rumah Sakit,Pemerintah
+-6.95836,109.62139,Klinik Sejahtera Bojong,Pekalongan,Klinik,Swasta
+-6.97191,109.66673,RS Mitra Keluarga Bojong,Pekalongan,Rumah Sakit,Swasta
+-6.98563,109.63711,RS Permata Sejahtera Bojong,Pekalongan,Rumah Sakit,Swasta
+-7.04892,109.72061,Puskesmas Warungasem,Batang,Puskesmas,Pemerintah
+-7.02302,109.68386,RS Mitra Warungasem,Batang,Rumah Sakit,Swasta
+-7.09152,109.76766,Klinik Sehat Warungasem,Batang,Klinik,Swasta
+-7.07550,109.79205,RS Permata Keluarga Warungasem,Batang,Rumah Sakit,Swasta
+-7.05505,109.74568,RS Islam Warungasem,Batang,Rumah Sakit,Swasta
+-6.89993,109.36048,Puskesmas Pemalang Barat,Pemalang,Puskesmas,Pemerintah
+-6.90299,109.41946,RS Permata Pemalang Barat,Pemalang,Rumah Sakit,Swasta
+-6.87018,109.52344,Klinik Pratama Pemalang Barat,Pemalang,Klinik,Swasta
+-6.89907,109.37662,RS Mitra Keluarga Pemalang Barat,Pemalang,Rumah Sakit,Swasta
+-6.87632,109.43681,RS Dharma Pemalang Barat,Pemalang,Rumah Sakit,Swasta
+-7.48825,109.78450,Puskesmas Rakit,Banjarnegara,Puskesmas,Pemerintah
+-7.56434,109.68371,RS Mitra Rakit,Banjarnegara,Rumah Sakit,Swasta
+-7.50953,109.74208,Klinik Pratama Rakit,Banjarnegara,Klinik,Swasta
+-7.47635,109.81451,RS Permata Sehat Rakit,Banjarnegara,Rumah Sakit,Swasta
+-7.52281,109.79686,RS Dharma Rakit,Banjarnegara,Rumah Sakit,Swasta
+-7.19761,109.28751,Puskesmas Karangreja,Purbalingga,Puskesmas,Pemerintah
+-7.15877,109.33148,RS Permata Karangreja,Purbalingga,Rumah Sakit,Swasta
+-7.10459,109.32598,Klinik Sehat Karangreja,Purbalingga,Klinik,Swasta
+-7.27088,109.31147,RS Mitra Keluarga Karangreja,Purbalingga,Rumah Sakit,Swasta
+-7.22759,109.32426,RS Dharma Sehat Karangreja,Purbalingga,Rumah Sakit,Swasta
